@@ -299,3 +299,10 @@ This application is built strictly to Vercel and Next.js production specificatio
 - **Project:** AI-4 – AI Powered Text Summarizer Web Application
 - **License:** MIT License
 
+  ## Live Demo
+
+[SmartSummarize AI – Visit Website](https://smart-summarize-ai-ten.vercel.app)
+
+## Deployment
+Deployed using Vercel.
+
